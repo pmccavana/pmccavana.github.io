@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Rath-Jam-Beau Notebook - misc</title><link href="https://pmccavana.github.io/" rel="alternate"></link><link href="https://pmccavana.github.io/feeds/misc.atom.xml" rel="self"></link><id>https://pmccavana.github.io/</id><updated>2019-03-20T16:52:00+00:00</updated><entry><title>My super title</title><link href="https://pmccavana.github.io/my-super-title.html" rel="alternate"></link><published>2019-03-20T16:52:00+00:00</published><updated>2019-03-20T16:52:00+00:00</updated><author><name>Pat McCavana</name></author><id>tag:pmccavana.github.io,2019-03-20:/my-super-title.html</id><summary type="html">&lt;p&gt;Category: Python
+Tags: pelican, publishing
+Slug: slug-of-2nd-post
+Author: Pat McCavana
+Summary: Short version for index and feeds&lt;/p&gt;
+&lt;p&gt;This is the content of my second blog post.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Category: Python
+Tags: pelican, publishing
+Slug: slug-of-2nd-post
+Author: Pat McCavana
+Summary: Short version for index and feeds&lt;/p&gt;
+&lt;p&gt;This is the content of my second blog post.&lt;/p&gt;</content></entry></feed>
