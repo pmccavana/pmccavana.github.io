@@ -5,30 +5,37 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/</loc>
-<lastmod>2019-09-11T11:32:23-00:00</lastmod>
+<lastmod>2019-11-19T21:32:30-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/archives.html</loc>
-<lastmod>2019-09-11T11:32:23-00:00</lastmod>
+<lastmod>2019-11-19T21:32:30-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tags.html</loc>
-<lastmod>2019-09-11T11:32:23-00:00</lastmod>
+<lastmod>2019-11-19T21:32:30-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/categories.html</loc>
-<lastmod>2019-09-11T11:32:23-00:00</lastmod>
+<lastmod>2019-11-19T21:32:30-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
+</url>
+
+<url>
+<loc>/nov-post.html</loc>
+<lastmod>2019-11-19T20:20:00+00:00</lastmod>
+<changefreq>always</changefreq>
+<priority>1</priority>
 </url>
 
 <url>
@@ -82,7 +89,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/category/example-posts.html</loc>
-<lastmod>2019-03-21T20:22:00+00:00</lastmod>
+<lastmod>2019-11-19T20:20:00+00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -103,28 +110,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/tag/python.html</loc>
-<lastmod>2019-03-21T20:22:00+00:00</lastmod>
+<lastmod>2019-11-19T20:20:00+00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tag/pelican.html</loc>
-<lastmod>2019-03-21T20:22:00+00:00</lastmod>
+<lastmod>2019-11-19T20:20:00+00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tag/blog.html</loc>
-<lastmod>2019-03-21T20:22:00+00:00</lastmod>
+<lastmod>2019-11-19T20:20:00+00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/author/pat-mccavana.html</loc>
-<lastmod>2019-08-25T00:00:00+00:00</lastmod>
+<lastmod>2019-11-19T20:20:00+00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
